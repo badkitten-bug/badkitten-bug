@@ -33,7 +33,7 @@ My name is Steve, but everyone calls me Seghi. Desde niño crecí muy pregunton,
 
 <br/>.📚  Student Systems Engineer and Development at Untels.
 <br/>.💙  I really love to learn and teach
-<br/>.💻  Techs: Java,JavaScript, React, NodeJS, HTML5, CSS3, Bootstrap4.
+<br/>.💻  Techs: Java,JavaScript,Python,Kotlin, Angular, NodeJS, HTML5, CSS3, Bootstrap4.
 <br/>.🌍  Languages: English, Spanish and Portguese.
 <br/>.💬  Ask me about:Peru in tech,lifestyle in different countries(I travel to Bolívia, Perú, México, Colômbia)
 <br/> .⚡ Curiosity: I was worked in a Stadium in Peru (PE) with the Worldpackers.
