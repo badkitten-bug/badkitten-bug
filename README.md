@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <br/>
 ## Conozcámonos! Bora se conhecer! Let's meet ! 
 <br/>
-My name is Steve, but everyone calls me Seghi. Desde niño crecí muy pregunton,re-gracias a mis padres, soy dichosamente curioso y me lleva a poder aprender siempre cosas nuevas, y todos los dias estudio y practico inglés.  Me formei como System Engineer e trabalhar na área da development me proporcionou dentre tantas hard e soft skills, desenvolver a comunicação e a empatia, e essas são algumas das características que carrego para o universo da Tecnologia/Desenvolvimento.     
+     My name is Steve, but everyone calls me Seghi. Since I was a child I grew up very inquisitive, thanks to my parents, I am happily curious and it leads me to always learn new things, and every day I study and practice English.  I trained as a System Engineer and working in the development area gave me among many hard and soft skills, to develop communication and empathy, and these are some of the characteristics that I bring to the world of Technology/Development. 
 
 <br/>.📚  Student Systems Engineer and Development at Untels.
 <br/>.💙  I really love to learn and teach
 <br/>.💻  Techs: Java,JavaScript,Python, HTML5, CSS3, Bootstrap4.
 <br/>.🌍  Languages: English, Spanish and Portguese.
-<br/>.💬  Ask me about:Peru in tech,lifestyle in different countries(I travel to Bolívia, Perú, México, Colômbia)
+<br/>.💬  Ask me about:Peru in tech,lifestyle in different countries(I travel to Bolívia, Perú, México)
 <br/> .⚡ Curiosity: I was worked in a Stadium in Peru (PE) with the Worldpackers.
 </br>
 <p align="center"> 
