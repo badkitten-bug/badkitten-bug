@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br/>.📚  Student Systems Engineer and Development at Untels.
 <br/>.💙  I really love to learn and teach
-<br/>.💻  Techs: Java,JavaScript,Python, HTML5, CSS3, Bootstrap4.
+<br/>.💻  Techs: Java,JavaScript,Python, HTML5, CSS3, React.
 <br/>.🌍  Languages: English, Spanish and Portguese.
 <br/>.💬  Ask me about:Peru in tech,lifestyle in different countries(I travel to Bolívia, Perú, México)
 <br/> .⚡ Curiosity: I was worked in a Stadium in Peru (PE) with the Worldpackers.
