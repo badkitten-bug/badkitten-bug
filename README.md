@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 <br/>
 ## Conozcámonos! Bora se conhecer! Let's meet ! 
 <br/>
-     My name is Steve, but everyone calls me Seghi. Since I was a child I grew up very inquisitive, thanks to my parents, I am happily curious and it leads me to always learn new things, and every day I study and practice English.  I trained as a System Engineer and working in the development area gave me among many hard and soft skills, to develop communication and empathy, and these are some of the characteristics that I bring to the world of Technology/Development. 
+     My name is Steve, but everyone calls me Seghi. Since I was a child I grew up very inquisitive, thanks to my parents, I am happily curious and it leads me to always learn new things
 
-<br/>.📚  Student Systems Engineer and Development at Untels.
 <br/>.💙  I really love to learn and teach
 <br/>.💻  Techs: Java,JavaScript,Python, HTML5, CSS3, React.
 <br/>.🌍  Languages: English, Spanish and Portguese.
