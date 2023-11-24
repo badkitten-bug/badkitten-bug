@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      My name is Steve, but everyone calls me Seghi. Since I was a child I grew up very inquisitive, thanks to my parents, I am happily curious and it leads me to always learn new things
 
 <br/>.💙  I really love to learn and teach
-<br/>.💻  Techs: Java,JavaScript,Python, HTML5, CSS3, React.
+<br/>.💻  Techs: JavaScript,Python,HTML5, CSS3, Astro.
 <br/>.🌍  Languages: English, Spanish and Portguese.
 <br/>.💬  Ask me about:Peru in tech,lifestyle in different countries(I travel to Bolívia, Perú, México)
 <br/> .⚡ Curiosity: I was worked in a Stadium in Peru (PE) with the Worldpackers.
