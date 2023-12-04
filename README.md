@@ -15,7 +15,7 @@ I'm System Engineer  experienced in system analist in creating beautil and user-
 <details>
   <summary>Click to expand!</summary>
   
-[![Steve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badkitten-bug)](https://github.com/badkitten-bug/github-readme-stats)
+![Steve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badkitten-bug)](https://github.com/badkitten-bug/github-readme-stats)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badkitten-bug" alt="Steve Gomez" /> </p>
