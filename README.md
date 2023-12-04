@@ -18,7 +18,6 @@ I'm System Engineer  experienced in system analist in creating beautil and user-
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=badkitten-bug&show_icons=true&theme=graywhite" /></a>
 </p> 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veranikabarel)](https://github.com/veranikabarel/github-readme-stats&layout=compact)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badkitten-bug" alt="Steve Gomez" /> </p>
