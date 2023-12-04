@@ -10,11 +10,12 @@ I'm System Engineer  experienced in system analist in creating beautil and user-
 
 - [IEEE](https://latinamerica.computer.org/communities/student-branch/)
   
-### Volunteer
+### Stats
 
 <details>
   <summary>Click to expand!</summary>
-  
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badkitten-bug)](https://github.com/badkitten-bug/github-readme-stats)
 
  ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=badkitten-bug&show_icons=true&theme=radical)
 
