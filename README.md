@@ -21,5 +21,5 @@ I'm System Engineer  experienced in system analist in creating beautil and user-
 </details>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=badkitten-bug" alt="Steve Gomez" height=15/> 
+ <img src="https://komarev.com/ghpvc/?username=badkitten-bug" alt="Steve Gomez" height=19/> 
 </p>
