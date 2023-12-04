@@ -15,8 +15,11 @@ I'm System Engineer  experienced in system analist in creating beautil and user-
 <details>
   <summary>Click to expand!</summary>
   
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=badkitten-bug&show_icons=true&theme=radical)
-  
+<p align="center">
+ ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=badkitten-bug&show_icons=true&theme=radical)
+</p>
+</details>
+
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=badkitten-bug" alt="Steve Gomez" height=10/> 
+ <img src="https://komarev.com/ghpvc/?username=badkitten-bug" alt="Steve Gomez" height=35/> 
 </p>
